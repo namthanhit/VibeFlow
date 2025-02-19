@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118216196512",
+    "project_id": "vibeflow-450cb",
+    "storage_bucket": "vibeflow-450cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118216196512:android:d050ac155267e21186e4c5",
+        "android_client_info": {
+          "package_name": "com.example.vibe_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKqkp4Jj9PjjbakVqOJo6xDLOFLEZuD1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
